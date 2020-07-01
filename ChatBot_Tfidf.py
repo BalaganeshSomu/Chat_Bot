@@ -1,5 +1,6 @@
     #---------------------------------------------------------#
     ### CHATBOT WITH TFIDF VECTORIZER AND COSINE SIMILARITY ###
+    ### By: Balaganesh Somu                                 ###
     #---------------------------------------------------------#
 
 import pandas as pd
