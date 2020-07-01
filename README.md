@@ -1,4 +1,6 @@
 # Chat_Bot
+Both tfidf-vectorizer and cosine similarity were not imported from sklearn.(Instead written from scratch)
+
 What is a Chatbot ?
 A Chatbot or bot – is a computer program that simulates a natural human conversation.
 
