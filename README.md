@@ -11,7 +11,7 @@ What is Cosine Similarity?
 Cosine similarity is a measure of similarity between two non-zero vectors of an inner product space
 
 -------------------------------------------------------------------------------------------------------
-Prerequisites : Python
+Language : Python
 -------------------------------------------------------------------------------------------------------
 Responses.xlsx is an excel file with a set if questions and answer. It is our dataset 
 -------------------------------------------------------------------------------------------------------
